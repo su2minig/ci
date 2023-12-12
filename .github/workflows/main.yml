@@ -39,4 +39,4 @@ jobs:
 
             source /home/venv/bin/activate
             pip install -r requirements.txt
-            sudo systemctl restart site.service
+            sudo systemctl restart drf.service
