@@ -10,4 +10,4 @@ env
 .vscode/
 venv
 **.env
-d
+dd
